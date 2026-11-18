@@ -1,0 +1,59 @@
+﻿stop_id,arret_id,nom_affiche,commune,nom_complet,sens_desservis,quai,sens_precision,lignes,lat,lon,nom_source
+RIV:56800001A,campeneac-mairie,Mairie,Campénéac,"Mairie, Campénéac",aller et retour,,,3,47.957111,-2.293861,MAIRIE
+RIV:56800004A,gourhel-mairie,Mairie,Gourhel,"Mairie, Gourhel",aller et retour,,,3,47.937111,-2.361,MAIRIE
+RIV:56800007A,guilliers-les-chenots,Les Chenots,Guilliers,"Les Chenots, Guilliers",aller et retour,,,2,48.040278,-2.410389,LES CHENOTS
+RIV:56800008A,guilliers-mairie-place-des-anciens-combattants,Mairie – Place des Anciens Combattants,Guilliers,"Mairie – Place des Anciens Combattants, Guilliers",aller et retour,,,2,48.043083,-2.403889,MAIRIE Place des Anciens Combattants
+RIV:56800005A,guegon-centre,Centre,Guégon,"Centre, Guégon",aller et retour,,,4,47.938806,-2.563861,CENTRE
+RIV:56800065A,josselin-la-belle-alouette,La Belle Alouette,Josselin,"La Belle Alouette, Josselin",aller et retour,,,5,47.952639,-2.531278,LA BELLE ALOUETTE
+RIV:56800011A,josselin-la-ville-allain,La Ville Allain,Josselin,"La Ville Allain, Josselin",aller,,,4,47.947444,-2.555389,LA VILLE ALLAIN
+RIV:56800011R,josselin-la-ville-allain,La Ville Allain,Josselin,"La Ville Allain, Josselin",retour,,,4,47.947278,-2.554972,LA VILLE ALLAIN
+RIV:56800010A,josselin-pem-saint-jacques,PEM Saint-Jacques,Josselin,"PEM Saint-Jacques, Josselin",aller et retour,,,4 5,47.958444,-2.546861,PEM SAINT-JACQUES
+RIV:56800066A,josselin-place-des-remparts,Place des Remparts,Josselin,"Place des Remparts, Josselin",aller et retour,,,5,47.954,-2.548417,PLACE DES REMPARTS
+RIV:56800018A,loyat-camping,Camping,Loyat,"Camping, Loyat",aller,,,1,47.986083,-2.380444,CAMPING
+RIV:56800018R,loyat-camping,Camping,Loyat,"Camping, Loyat",retour,,,1,47.985722,-2.380639,CAMPING
+RIV:56800019A,loyat-mairie,Mairie,Loyat,"Mairie, Loyat",aller,,,1,47.988806,-2.383167,MAIRIE
+RIV:56800019R,loyat-mairie,Mairie,Loyat,"Mairie, Loyat",retour,,,1,47.988722,-2.38325,MAIRIE
+RIV:56800020A,loyat-tregadoret,Trégadoret,Loyat,"Trégadoret, Loyat",aller,,,1,47.992806,-2.363194,TREGADORET
+RIV:56800020R,loyat-tregadoret,Trégadoret,Loyat,"Trégadoret, Loyat",retour,,,1,47.992722,-2.363,TREGADORET
+RIV:56800022A,mauron-mairie-restaurant-scolaire,Mairie – Restaurant scolaire,Mauron,"Mairie – Restaurant scolaire, Mauron",aller et retour,,,1 2,48.084417,-2.282444,MAIRIE Restaurant scolaire
+RIV:56800021A,mauron-rond-point-du-stade,Rond-point du stade,Mauron,"Rond-point du stade, Mauron",aller et retour,,,1 2,48.077056,-2.290167,ROND POINT DU STADE
+RIV:56800064A,mauron-eglise,Église,Mauron,"Église, Mauron",aller,,Rue Nationale,1 2,48.081667,-2.284583,EGLISE Rue Nationale
+RIV:56800064R,mauron-eglise,Église,Mauron,"Église, Mauron",retour,,Place de l’Église,1 2,48.081694,-2.2855,EGLISE Place de l'Église
+RIV:56800026A,neant-sur-yvel-ecole-rue-du-calvaire,École – Rue du Calvaire,Néant-sur-Yvel,"École – Rue du Calvaire, Néant-sur-Yvel",aller,,,1,48.013889,-2.33075,ECOLE Rue du Calvaire
+RIV:56800026R,neant-sur-yvel-ecole-rue-du-calvaire,École – Rue du Calvaire,Néant-sur-Yvel,"École – Rue du Calvaire, Néant-sur-Yvel",retour,,,1,48.013944,-2.330778,ECOLE Rue du Calvaire
+RIV:56800047A,ploermel-avenue-de-guibourg,Avenue de Guibourg,Ploërmel,"Avenue de Guibourg, Ploërmel",aller,,,4,47.929833,-2.400722,AVENUE DE GUIBOURG
+RIV:56800047R,ploermel-avenue-de-guibourg,Avenue de Guibourg,Ploërmel,"Avenue de Guibourg, Ploërmel",retour,,,4,47.929806,-2.400389,AVENUE DE GUIBOURG
+RIV:56800029A,ploermel-avenue-du-docteur-guillois,Avenue du Docteur Guillois,Ploërmel,"Avenue du Docteur Guillois, Ploërmel",aller,,,3,47.931361,-2.393167,AVENUE DU DOCTEUR GUILLOIS
+RIV:56800029R,ploermel-avenue-du-docteur-guillois,Avenue du Docteur Guillois,Ploërmel,"Avenue du Docteur Guillois, Ploërmel",retour,,,3,47.9315,-2.393278,AVENUE DU DOCTEUR GUILLOIS
+RIV:56800068A,ploermel-centre,Centre,Ploërmel,"Centre, Ploërmel",aller,,,1 2 4 5,47.931528,-2.397111,CENTRE
+RIV:56800068R,ploermel-centre,Centre,Ploërmel,"Centre, Ploërmel",retour,,,1 2 4 5,47.9315,-2.39725,CENTRE
+RIV:56800027A_Q2,ploermel-gare-routiere-de-rehumpol,Gare routière de Réhumpol,Ploërmel,"Gare routière de Réhumpol, Ploërmel",aller et retour,Quai Q2,,2 3 5,47.926861,-2.385139,GARE ROUTIÈRE DE RÉHUMPOL
+RIV:56800027A_Q3,ploermel-gare-routiere-de-rehumpol,Gare routière de Réhumpol,Ploërmel,"Gare routière de Réhumpol, Ploërmel",aller et retour,Quai Q3,,1 4,47.926833,-2.385444,GARE ROUTIÈRE DE RÉHUMPOL
+RIV:56800040A,ploermel-mission-locale-place-lamennais,Mission locale – Place Lamennais,Ploërmel,"Mission locale – Place Lamennais, Ploërmel",aller,,,1 2,47.932167,-2.399694,MISSION LOCALE - PLACE LAMENNAIS
+RIV:56800040R,ploermel-mission-locale-place-lamennais,Mission locale – Place Lamennais,Ploërmel,"Mission locale – Place Lamennais, Ploërmel",retour,,,1 2,47.933333,-2.399444,MISSION LOCALE - PLACE LAMENNAIS
+RIV:56800039A,ploermel-place-jean-paul-ii,Place Jean-Paul II,Ploërmel,"Place Jean-Paul II, Ploërmel",aller,,,1 2 4 5,47.931194,-2.394972,PLACE JEAN-PAUL II
+RIV:56800039R,ploermel-place-jean-paul-ii,Place Jean-Paul II,Ploërmel,"Place Jean-Paul II, Ploërmel",retour,,,1 2 4 5,47.931056,-2.394639,PLACE JEAN-PAUL II
+RIV:56800031A,ploermel-rond-point-la-touche,Rond-point La Touche,Ploërmel,"Rond-point La Touche, Ploërmel",aller,,,1,47.945917,-2.395833,ROND POINT LA TOUCHE
+RIV:56800031R,ploermel-rond-point-la-touche,Rond-point La Touche,Ploërmel,"Rond-point La Touche, Ploërmel",retour,,,1,47.945861,-2.395556,ROND POINT LA TOUCHE
+RIV:56800051A,ploermel-rue-jean-moulin,Rue Jean Moulin,Ploërmel,"Rue Jean Moulin, Ploërmel",aller,,,2,47.94075,-2.405,RUE JEAN MOULIN
+RIV:56800051R,ploermel-rue-jean-moulin,Rue Jean Moulin,Ploërmel,"Rue Jean Moulin, Ploërmel",retour,,,2,47.9405,-2.405056,RUE JEAN MOULIN
+RIV:56800045A,ploermel-rue-de-chateaubriant,Rue de Châteaubriant,Ploërmel,"Rue de Châteaubriant, Ploërmel",aller,,,4,47.922417,-2.40325,RUE DE CHATEAUBRIANT
+RIV:56800045R,ploermel-rue-de-chateaubriant,Rue de Châteaubriant,Ploërmel,"Rue de Châteaubriant, Ploërmel",retour,,,4,47.922639,-2.403722,RUE CHATEAUBRIAND
+RIV:56800063A,ploermel-rue-des-huloux,Rue des Huloux,Ploërmel,"Rue des Huloux, Ploërmel",aller,,,1,47.943333,-2.389694,RUE DES HULOUX
+RIV:56800063R,ploermel-rue-des-huloux,Rue des Huloux,Ploërmel,"Rue des Huloux, Ploërmel",retour,,,1,47.94325,-2.39,RUE DES HULOUX
+RIV:56800050A,ploermel-rue-du-lac,Rue du Lac,Ploërmel,"Rue du Lac, Ploërmel",aller,,,2,47.936333,-2.401583,RUE DU LAC
+RIV:56800050R,ploermel-rue-du-lac,Rue du Lac,Ploërmel,"Rue du Lac, Ploërmel",retour,,,2,47.935833,-2.401444,RUE DU LAC
+RIV:56800037A,ploermel-rue-du-val,Rue du Val,Ploërmel,"Rue du Val, Ploërmel",aller,,,1,47.940222,-2.398194,RUE DU VAL
+RIV:56800037R,ploermel-rue-du-val,Rue du Val,Ploërmel,"Rue du Val, Ploërmel",retour,,,1,47.940333,-2.398306,RUE DU VAL
+RIV:56800054A,saint-malo-des-trois-fontaines-mairie,Mairie,Saint-Malo-des-Trois-Fontaines,"Mairie, Saint-Malo-des-Trois-Fontaines",aller et retour,,,2,48.013611,-2.471917,MAIRIE
+RIV:56800055A,saint-servant-centre,Centre,Saint-Servant,"Centre, Saint-Servant",aller et retour,,,4,47.914694,-2.511833,CENTRE
+RIV:56800056A,taupont-les-belles-rives,Les Belles Rives,Taupont,"Les Belles Rives, Taupont",aller,,,2,47.945222,-2.420472,LES BELLES RIVES
+RIV:56800056R,taupont-les-belles-rives,Les Belles Rives,Taupont,"Les Belles Rives, Taupont",retour,,,2,47.945694,-2.421167,LES BELLES RIVES
+RIV:56800057A,taupont-mairie,Mairie,Taupont,"Mairie, Taupont",aller,,,2,47.958472,-2.438944,MAIRIE
+RIV:56800057R,taupont-mairie,Mairie,Taupont,"Mairie, Taupont",retour,,,2,47.958361,-2.438889,MAIRIE
+RIV:56800061A,val-d-oust-la-chapelle-caro-gare,La Chapelle-Caro – Gare,Val d’Oust,"La Chapelle-Caro – Gare, Val d’Oust",aller,,,4,47.864778,-2.439139,LA CHAPELLE-CARO - Gare
+RIV:56800061R,val-d-oust-la-chapelle-caro-gare,La Chapelle-Caro – Gare,Val d’Oust,"La Chapelle-Caro – Gare, Val d’Oust",retour,,,4,47.864667,-2.438694,LA CHAPELLE-CARO - Gare
+RIV:56800013A,val-d-oust-la-chapelle-caro-mairie,La Chapelle-Caro – Mairie,Val d’Oust,"La Chapelle-Caro – Mairie, Val d’Oust",aller et retour,,,4,47.866972,-2.422278,LA CHAPELLE-CARO - Mairie
+RIV:56800017A,val-d-oust-le-roc-saint-andre-centre,Le Roc-Saint-André – Centre,Val d’Oust,"Le Roc-Saint-André – Centre, Val d’Oust",aller,,,4,47.86475,-2.448,LE ROC-SAINT-ANDRÉ - Centre
+RIV:56800017R,val-d-oust-le-roc-saint-andre-centre,Le Roc-Saint-André – Centre,Val d’Oust,"Le Roc-Saint-André – Centre, Val d’Oust",retour,,,4,47.864667,-2.448139,LE ROC-SAINT-ANDRÉ - Centre
+RIV:56800052A,val-d-oust-quily-eglise,Quily – Église,Val d’Oust,"Quily – Église, Val d’Oust",aller et retour,,,4,47.891056,-2.468,QUILY - Église

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Horaires et trajets RIV – Ploërmel Communauté</title>
+  <meta name="description" content="Préparez votre trajet en bus RIV autour de Ploërmel, Josselin et Mauron : horaires, correspondances, transport à la demande.">
+  <meta name="theme-color" content="#274a78">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="entete">
+    <a class="entete-lien" href="./" aria-label="Horaires et trajets RIV, retour à l’accueil">
+      <span class="logo" aria-hidden="true">RIV</span>
+      <span class="entete-textes"><strong>Horaires et trajets</strong><span>Ploërmel Communauté</span></span>
+    </a>
+  </header>
+
+  <main id="vue" class="vue" tabindex="-1">
+    <p class="chargement">Chargement des horaires…</p>
+    <noscript><p class="bandeau bandeau-alerte">Ce site a besoin de JavaScript pour calculer les trajets. Les horaires restent disponibles sur riv-info.bzh.</p></noscript>
+  </main>
+
+  <footer class="pied">
+    <button type="button" class="lien" id="ouvrir-prefs"></button>
+    <a class="lien" id="lien-tad" href="https://rivtad.transport-a-la-demande.fr" target="_blank" rel="noopener"></a>
+    <p id="pied-texte"></p>
+  </footer>
+
+  <p id="etat" class="sr-only" role="status" aria-live="polite"></p>
+
+  <dialog id="prefs" aria-labelledby="prefs-titre">
+    <form method="dialog" class="prefs">
+      <h2 id="prefs-titre"></h2>
+      <fieldset>
+        <legend id="prefs-legende"></legend>
+        <div class="choix" id="prefs-choix"></div>
+      </fieldset>
+      <p class="aide" id="prefs-aide"></p>
+      <div class="actions">
+        <button type="button" class="secondaire" id="prefs-reinit"></button>
+        <button class="principal" value="fermer" id="prefs-fermer"></button>
+      </div>
+    </form>
+  </dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
